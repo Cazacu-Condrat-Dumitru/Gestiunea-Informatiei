@@ -1,1 +1,454 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T21:14:35.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" version="17.4.2" etag="ml66FxcYhQUgGtp-2qtT" type="github"><diagram id="3lc8zQqxuXCA42Eep0Rm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-09T21:16:49.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="lBC9PiSBO4mHwtP0M9Kv" version="17.4.2" type="github">
+  <diagram id="3lc8zQqxuXCA42Eep0Rm" name="Page-1">
+    <mxGraphModel dx="1738" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-1" value="Persoane" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="139" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-2" value="Animale" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="609" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-3" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" target="RaBGiMM5-GQpRdGy-cmA-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="173.64466094067257" y="294.14213562373106" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-4" value="id_persoana" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="159" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-5" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" target="RaBGiMM5-GQpRdGy-cmA-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-6" value="Nume" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="49" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-8" target="RaBGiMM5-GQpRdGy-cmA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-8" value="Prenume" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="19" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-10" target="RaBGiMM5-GQpRdGy-cmA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-10" value="Adresa" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="19" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" target="RaBGiMM5-GQpRdGy-cmA-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="639" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-12" value="id_câine" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="584" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-14" target="RaBGiMM5-GQpRdGy-cmA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-14" value="Nume" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="719" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-15" value="Medic" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="614" y="580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-16" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-17" target="RaBGiMM5-GQpRdGy-cmA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-17" value="id_medic" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-18" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.69;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-19" target="RaBGiMM5-GQpRdGy-cmA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-19" value="Prenume" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-20" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-21" target="RaBGiMM5-GQpRdGy-cmA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-21" value="Adresa" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="734" y="580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-22" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-23" target="RaBGiMM5-GQpRdGy-cmA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-23" value="Nume" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-24" value="Detine" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-25" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.91;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-26" target="RaBGiMM5-GQpRdGy-cmA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-26" value="Numar legitematie" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="704" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-27" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-28" target="RaBGiMM5-GQpRdGy-cmA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-28" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;id_persoane&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-29" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-30" target="RaBGiMM5-GQpRdGy-cmA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-30" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;id_câine&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-31" value="soi de animal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="869" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-32" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-33" target="RaBGiMM5-GQpRdGy-cmA-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-33" value="id_soi" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="370" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-34" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-35" target="RaBGiMM5-GQpRdGy-cmA-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-35" value="denumire" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-36" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.88;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;sketch=1;" edge="1" parent="1" target="RaBGiMM5-GQpRdGy-cmA-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="728" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-37" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-31" target="RaBGiMM5-GQpRdGy-cmA-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="509" y="490" as="sourcePoint" />
+            <mxPoint x="609" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-38" value="Persoane" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="19" y="760" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-39" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-38">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-40" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-39">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-41" value="id_persoana" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-39">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-42" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-38">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-43" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-42">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-44" value="Nume" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-42">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-45" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-38">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-46" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-45">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-47" value="Prenume" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-45">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-48" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-38">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-49" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-48">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-50" value="Adresa" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-48">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-51" value="Animale" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="534" y="760" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-52" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-51">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-53" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-52">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-54" value="id_câine" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-52">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-55" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-51">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-56" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-55">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-57" value="Nume" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-55">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-58" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-51">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-59" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-58">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-60" value="id_soi" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-58">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-61" value="Medic" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="760" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-62" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-61">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-63" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-62">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-64" value="id_medic" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-62">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-65" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-61">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-66" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-65">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-67" value="Nume" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-65">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-68" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-61">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-69" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-68">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-70" value="Prenume" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-68">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-71" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-61">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-72" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-71">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-73" value="Adresa" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-71">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-74" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-61">
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-75" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-74">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-76" value="Numar legitimatie" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-74">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-77" value="Soi de animal" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="534" y="960" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-78" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-77">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-79" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-78">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-80" value="id_soi" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-78">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-81" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-77">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-82" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-81">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-83" value="tip" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-81">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-84" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-77">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-85" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-84">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-86" value="Denumire" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-84">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-87" value="Consultare" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="599" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-88" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-89" target="RaBGiMM5-GQpRdGy-cmA-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-89" value="id_medic" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-90" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-91" target="RaBGiMM5-GQpRdGy-cmA-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-91" value="id_caine" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="746" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-92" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-93" target="RaBGiMM5-GQpRdGy-cmA-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="689" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-93" value="Data" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="728" y="490" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-94" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.43;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-2" target="RaBGiMM5-GQpRdGy-cmA-87">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="619" y="480" as="sourcePoint" />
+            <mxPoint x="719" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-95" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-15" target="RaBGiMM5-GQpRdGy-cmA-87">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="619" y="580" as="sourcePoint" />
+            <mxPoint x="719" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-96" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;id_soi&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="728" y="370" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-97" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-24" target="RaBGiMM5-GQpRdGy-cmA-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="369" y="530" as="sourcePoint" />
+            <mxPoint x="469" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-98" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-24" target="RaBGiMM5-GQpRdGy-cmA-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="369" y="530" as="sourcePoint" />
+            <mxPoint x="469" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-99" value="&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;i&gt;Clinica veterinară&lt;/i&gt;. Este necesar de a păstra informaţia despre mai multe persoane (număr de&lt;br&gt;identificare, nume, prenume, adresa de domiciliu). Aceste persoane sunt proprietari de câini.&lt;br&gt;Fiecare căţel are nume şi un singur proprietar. Diferiţi proprietari pot da acelaşi nume căţeilor&lt;br&gt;săi. Fiecare căţel este consultat de către medici veterinari (care se caracterizează prin aceeaşi&lt;br&gt;informaţie ca şi proprietarii de câini + numărul legitimaţiei de medic veterinar). Un câine&lt;br&gt;poate fi consultat de câţiva medici veterinari (de ex. chemare de urgenţă).&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt; Construieşte modelul Entitate-Asociere;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt; Modifică modelul în situaţia apariţiei mai multor clienţi (antreprenori);&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt; Identifică atributele care pot fi entităţi;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt; Extinde modelul;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt; Transpune modelul Entitate-Asociere în modelul relaţional.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="630" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-100" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Laborator nr. 1. Gestiunea informatiei&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="54" y="20" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-101" value="&lt;b style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Exercitiul 3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="10" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-102" value="Detine" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="760" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-103" value="Id_persoane" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-102">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-104" value="id_caine" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-102">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-105" value="Consultare" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="760" width="160" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-106" value="id_caine" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-105">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-107" value="id_medic" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-105">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-108" value="data" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;rounded=1;sketch=1;" vertex="1" parent="RaBGiMM5-GQpRdGy-cmA-105">
+          <mxGeometry y="86" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-109" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-103" target="RaBGiMM5-GQpRdGy-cmA-39">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="180" y="1000" as="sourcePoint" />
+            <mxPoint x="280" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-110" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-104" target="RaBGiMM5-GQpRdGy-cmA-52">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="384" y="920" as="sourcePoint" />
+            <mxPoint x="484" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-111" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-52" target="RaBGiMM5-GQpRdGy-cmA-106">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="670" y="990" as="sourcePoint" />
+            <mxPoint x="770" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-112" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.005;entryY=0.189;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-62" target="RaBGiMM5-GQpRdGy-cmA-107">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="920" y="700" as="sourcePoint" />
+            <mxPoint x="1020" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-113" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="RaBGiMM5-GQpRdGy-cmA-78" target="RaBGiMM5-GQpRdGy-cmA-58">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="680" y="950" as="sourcePoint" />
+            <mxPoint x="780" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaBGiMM5-GQpRdGy-cmA-114" value="&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;i&gt;Clinica veterinară&lt;/i&gt;. Este necesar de a păstra informaţia despre mai multe persoane (număr de&lt;br&gt;identificare, nume, prenume, adresa de domiciliu). Aceste persoane sunt proprietari de câini.&lt;br&gt;Fiecare căţel are nume şi un singur proprietar. Diferiţi proprietari pot da acelaşi nume căţeilor&lt;br&gt;săi. Fiecare căţel este consultat de către medici veterinari (care se caracterizează prin aceeaşi&lt;br&gt;informaţie ca şi proprietarii de câini + numărul legitimaţiei de medic veterinar). Un câine&lt;br&gt;poate fi consultat de câţiva medici veterinari (de ex. chemare de urgenţă).&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt; Construieşte modelul Entitate-Asociere;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt; Modifică modelul în situaţia apariţiei mai multor clienţi (antreprenori);&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt; Identifică atributele care pot fi entităţi;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt; Extinde modelul;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt; Transpune modelul Entitate-Asociere în modelul relaţional.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="630" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
